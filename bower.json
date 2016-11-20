@@ -1,0 +1,17 @@
+{
+  "name": "d2p2",
+  "homepage": "https://github.com/Jokarin/d2p2",
+  "authors": [
+    "Jakarin Kasom <arm9545@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
